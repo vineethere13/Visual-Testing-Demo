@@ -1,0 +1,1 @@
+{"name":"playwright-visual-assertions-demo","version":"1.0.0","private":true,"scripts":{"test":"playwright test","test:update":"playwright test --update-snapshots","test:headed":"playwright test --headed","report":"playwright show-report"},"devDependencies":{"@playwright/test":"^1.56.0"}}
